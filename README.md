@@ -65,8 +65,8 @@ portfolio/
 
 ### 1. Personal Information
 Edit the following in `index.html`:
-- **Name**: Replace "John Doe" with your actual name
-- **Title**: Change "Full-Stack Web Developer" to your professional title
+- **Name**: Replace "Prashant Shekhar" with your actual name
+- **Title**: Change "Web Developer" to your professional title
 - **Photo**: Replace the placeholder image URL with your professional photo
 - **Contact Info**: Update email, phone, and location in the contact section
 
@@ -74,7 +74,7 @@ Edit the following in `index.html`:
 Update the following sections:
 - **Introduction**: Personal story and background
 - **Education**: Your educational background
-- **Experience**: Professional work history
+- **Certifications**: Change according to yours
 - **Skills**: Technical skills and expertise
 
 ### 3. Projects Section
